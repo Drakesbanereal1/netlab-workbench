@@ -1,10 +1,10 @@
 # Enterprise Networking Lab Workbench
 
-**Use it in your browser:** https://drakesbanereal1.github.io/networking-lab-workbench/
+**Use it in your browser:** https://drakesbanereal1.github.io/netlab-workbench/
 
 A study and practice tool for networking and CCNA: lessons, quizzes, interview practice, a simulated network for device labs, troubleshooting cases, a CCNA command reference and progress tracking. Everything runs in your browser. Nothing you type or record is sent anywhere.
 
-The desktop app for Windows and the terminal version for Linux are on the site's **Download** page and on the [Releases](https://github.com/Drakesbanereal1/networking-lab-workbench/releases) page.
+The desktop app for Windows and the terminal version for Linux are on the site's **Download** page and on the [Releases](https://github.com/Drakesbanereal1/netlab-workbench/releases) page.
 
 This repository holds only the published website. The source code is kept privately.
 

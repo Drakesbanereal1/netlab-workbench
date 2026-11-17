@@ -3,8 +3,8 @@
 
 const RELEASE = {
   version: "4.0.8",
-  page: "https://github.com/Drakesbanereal1/networking-lab-workbench/releases/tag/v4.0.8",
-  base: "https://github.com/Drakesbanereal1/networking-lab-workbench/releases/download/v4.0.8/",
+  page: "https://github.com/Drakesbanereal1/netlab-workbench/releases/tag/v4.0.8",
+  base: "https://github.com/Drakesbanereal1/netlab-workbench/releases/download/v4.0.8/",
   files: [
     { name: "Enterprise-Networking-Lab-Workbench-4.0.8-windows-setup.exe", label: "Windows 10 or 11 (64-bit) setup", bytes: 62232064, sha256: "3adaf11a4d741a88e45208d725f1fa009e6bcf8e7571684407d45a2a443737e2" },
     { name: "enterprise-networking-lab-workbench-4.0.8-linux-x86_64.tar.gz", label: "Linux, 64-bit Intel or AMD (terminal version)", bytes: 1089793, sha256: "5a076670884f90fa89f5ba7ad54d390f0e8c3bda506d047f4db8bac04a0c4a62" },
